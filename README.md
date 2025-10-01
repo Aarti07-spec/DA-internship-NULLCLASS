@@ -9,18 +9,19 @@ The goal was to implement advanced analytics and visualization features through 
 Each task applies specific business rules, filters, translations, and time-based display conditions for dashboards.
 
 ### 📂 Repository Structure
-📁 Google-PlayStore-Analytics
- ┣ 📄 Task1_Grouped_Bar_Chart.ipynb
- ┣ 📄 Task2_Choropleth_Map.ipynb
- ┣ 📄 Task3_Dual_Axis_Chart.ipynb
- ┣ 📄 Task4_Time_Series_Line_Chart.ipynb
- ┣ 📄 Task5_Bubble_Chart.ipynb
- ┣ 📄 Task6_Stacked_Area_Chart.ipynb
- ┣ 📄 README.md
- ┗ 📂 screenshots/
+📁 Google-PlayStore-Analytics <br>
+ ┣ 📄 Task1_Grouped_Bar_Chart.ipynb <br>
+ ┣ 📄 Task2_Choropleth_Map.ipynb <br>
+ ┣ 📄 Task3_Dual_Axis_Chart.ipynb <br>
+ ┣ 📄 Task4_Time_Series_Line_Chart.ipynb <br>
+ ┣ 📄 Task5_Bubble_Chart.ipynb <br>
+ ┣ 📄 Task6_Stacked_Area_Chart.ipynb <br>
+ ┣ 📄 README.md <br>
+ ┣ 📄Raw data csv files <br>
+ ┗ 📂 screenshots/ <br>
 
 ## ✅ Tasks Implemented
-##### Task 1 – Grouped Bar Chart
+#### Task 1 – Grouped Bar Chart
 
 Compare average rating and total reviews for top 10 app categories (by installs).
 
@@ -34,7 +35,7 @@ Last updated month = January.
 
 Graph visible only between 3 PM – 5 PM IST.
 
-##### Task 2 – Choropleth Map
+#### Task 2 – Choropleth Map
 
 Interactive Choropleth map showing global installs by category.
 
@@ -48,7 +49,7 @@ Exclude categories starting with “A,” “C,” “G,” or “S.”
 
 Graph visible only between 6 PM – 8 PM IST.
 
-##### Task 3 – Dual-Axis Chart
+#### Task 3 – Dual-Axis Chart
 
 Compare average installs vs. revenue for free vs. paid apps.
 
@@ -68,7 +69,7 @@ App name ≤ 30 characters.
 
 Graph visible only between 1 PM – 2 PM IST.
 
-##### Task 4 – Time Series Line Chart
+#### Task 4 – Time Series Line Chart
 
 Trend of total installs over time, segmented by category.
 
@@ -92,7 +93,7 @@ Dating → German
 
 Graph visible only between 6 PM – 9 PM IST.
 
-##### Task 5 – Bubble Chart
+#### Task 5 – Bubble Chart
 
 Bubble chart:
 
@@ -130,7 +131,7 @@ Dating → German
 
 Graph visible only between 5 PM – 7 PM IST.
 
-##### Task 6 – Stacked Area Chart
+#### Task 6 – Stacked Area Chart
 
 Stacked area chart: cumulative installs over time (per category).
 
@@ -169,8 +170,8 @@ Jupyter Notebook
 Timezone Handling with pytz
 
 ## 📸 Screenshots
-
-
+Output Charts: <br>
+https://github.com/Aarti07-spec/DA-internship-NULLCLASS/tree/main/Charts
 
 🚀 How to Run Locally
 
