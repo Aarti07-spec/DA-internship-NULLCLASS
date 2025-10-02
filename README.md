@@ -27,7 +27,7 @@ you can download it from here:
 Google play store dataset:https://github.com/Aarti07-spec/DA-internship-NULLCLASS/blob/main/Play%20Store%20Data.csv<br>
 Users Review: https://github.com/Aarti07-spec/DA-internship-NULLCLASS/blob/main/User%20Reviews.csv
 
-Add link if it was provided in training (e.g., Kaggle).
+
 ## ✅ Tasks Implemented
 #### Task 1 – Grouped Bar Chart
 
